@@ -5,7 +5,7 @@
 
 // Rock, paper and sessior game
 // Games Rules :
-//		Rock & scissor  -->> 	Rock
+//	Rock & scissor  -->> 	Rock
 //  	scissor & Paper -->> 	scissor
 //  	Paper & Rock	-->>	Paper
 
